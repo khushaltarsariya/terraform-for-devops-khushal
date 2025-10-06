@@ -1,5 +1,5 @@
 variable "aws_region_name" {
-  description = "defining the name of the instance"
+  description = "defining the name of the region"
   type        = string
   default     = "us-east-1"
 }
